@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bob Pollock- Consulate",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -366,10 +366,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#f8f7f2"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#f8f7f2"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
