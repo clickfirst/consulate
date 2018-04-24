@@ -36,10 +36,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f8f8f8"
+              "background": "#f8f7f2"
             },
             ".mbr-navbar__section": {
-              "background": "#f8f8f8"
+              "background": "#f8f7f2"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -57,7 +57,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -188,7 +188,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -386,7 +386,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -423,7 +423,7 @@
           "_anchor": "header3-f"
         },
         {
-          "text": "Legal Document Solutions, LLC can help with the following documents:\n<div>Asset Protection Trusts (Irrevocable Grantor Trust and Irrevocable Non-Grantor Trust)</div><div>Personal Service Contracts</div><div>Qualified Income Only Trusts (Miller Trusts)</div><div>Revocable Living Trust (Revocable Grantor Trust)</div><div>Power of Attorney (Durable and Health Care POA's)</div><div>Real Estate Transfer Deeds</div><div>Business entities (Corporations to LLC's)</div><div>VA Residence Trust &amp; Asset Protection Trusts</div><div>Medicaid Asset Protection Trusts</div><div>Grantor Trusts</div><div>Non-Grantor Trusts</div><div>Revocable Living Trusts ( Testamentary Trusts )\n</div><div><br></div><div><br></div><div>Legal Document Services Provided by Legal Document Solutions, LLC</div><div>License # AZLCP # 81300</div><div>480-730-3591</div>",
+          "text": "Legal Document Solutions, LLC can help with the following documents:\n<div>Asset Protection Trusts (Irrevocable Grantor Trust and Irrevocable Non-Grantor Trust)</div><div>Personal Service Contracts</div><div>Qualified Income Only Trusts (Miller Trusts)</div><div>Revocable Living Trust (Revocable Grantor Trust)</div><div>Power of Attorney (Durable and Health Care POA's)</div><div>Real Estate Transfer Deeds</div><div>Business entities (Corporations to LLC's)</div><div>VA Residence Trust &amp; Asset Protection Trusts</div><div>Medicaid Asset Protection Trusts</div><div>Grantor Trusts</div><div>Non-Grantor Trusts</div><div>Revocable Living Trusts ( Testamentary Trusts )\n</div><div><br></div><div><br></div><div>Legal Document Services Provided by&nbsp;</div><div>Wilson, Ford and Lovelace P.A.\n</div><div>401 South Lincoln Ave .\n</div><div>Clearwater, Fl 33756</div><div>HOT LINE 727-641-2672  \n</div><div>\nOffice 727-446-1036&nbsp;</div><div>\nFAX 727- 446-1037&nbsp;</div>",
           "_tags": [
             "Theme"
           ],
@@ -553,7 +553,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -693,7 +693,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -878,7 +878,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -1063,7 +1063,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -1218,7 +1218,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -1541,7 +1541,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -1820,7 +1820,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -2099,7 +2099,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -2216,7 +2216,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
@@ -2379,7 +2379,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#f8f8f8",
+            "color": "#f8f7f2",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
