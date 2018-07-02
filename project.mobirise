@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bob Pollock- Consulate",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -222,7 +222,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/medicaid-planning-3-800x531.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/medicaid-1-801x448.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -535,10 +535,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f8f7f2"
+              "background": "#f8f8f8"
             },
             ".mbr-navbar__section": {
-              "background": "#f8f7f2"
+              "background": "#f8f8f8"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -2398,10 +2398,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
